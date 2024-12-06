@@ -15,7 +15,7 @@ models/*.gguf
 
 cookies.json
 
-db.sqlite
+
 searches/
 tweets/
 
@@ -33,10 +33,6 @@ tokencache/
 tweetcache/
 twitter_cookies.json
 timeline_cache.json
-
-*.sqlite
-
-characters/
 
 packages/core/src/providers/cache
 packages/core/src/providers/cache/*
